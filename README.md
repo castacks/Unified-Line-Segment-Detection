@@ -355,7 +355,7 @@ This repository contains the official PyTorch implementation of the paper: [ULSD
     <img src="https://github.com/lh9171338/Unified-Line-Segment-Detection/blob/main/figure/spherical_result.png"/>
 </p> 
 
-## Videos
+## Video
 
 <p align="center">
     <a href="https://youtu.be/9h79zK2H8OI">
